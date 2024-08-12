@@ -1,0 +1,12 @@
+[
+  {
+    "email": "Ahmd@m.com",
+    "username": "Ahmed1234444",
+    "password": "$2a$10$Q/xN5MdIBuCKTUQ7L8bZe.qnGvK1uyW16ejllVqh0oNzFsMw4t/4u",
+    "country": "IN",
+    "details": {
+      "accountNumber": "4438023550",
+      "balance": 5189.58
+    }
+  }
+]

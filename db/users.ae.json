@@ -1,0 +1,62 @@
+[
+  {
+    "email": "Ammarr1895@gmail.com",
+    "username": "Ahmed1234",
+    "password": "$2a$10$f9z0PtasH6ldXYGdA48D9OVTXdiAJgtlKtew2MlS4V9OFvyJgX1J.",
+    "country": "AE",
+    "details": {
+      "accountNumber": "9546733843",
+      "balance": 6367.35
+    }
+  },
+  {
+    "email": "New@new.com",
+    "username": "Ahmed",
+    "password": "$2a$10$iiJqoNk5qIXxmDOz32Qt.O51a/nI98YYwB4lqVhfU66von.s6Svui",
+    "country": "AE",
+    "details": {
+      "accountNumber": "7576261267",
+      "balance": 3026.67
+    }
+  },
+  {
+    "email": "New2@new.com",
+    "username": "Ahmed",
+    "password": "$2a$10$z7Eu0KSEvQA5NkxsePg8qeAeSatsf0ZxXLX8NKVOQuVwmSrR0Jyge",
+    "country": "AE",
+    "details": {
+      "accountNumber": "6036237580",
+      "balance": 6659.7
+    }
+  },
+  {
+    "email": "New3@new.com",
+    "username": "Ahmed",
+    "password": "$2a$10$nVVduAvpKn9LXKKjFC.xVuvQmreOQoUkGcRRitKCqVCcFDmUyvzIC",
+    "country": "AE",
+    "details": {
+      "accountNumber": "0122782233",
+      "balance": 8662.43
+    }
+  },
+  {
+    "email": "Ammarr2@test.com",
+    "username": "Ahmed1234",
+    "password": "$2a$10$rqmJOXWyXnLJCy3WFkMzfuWfD..ayKKkprf9W.DPUQeJlIpexnva.",
+    "country": "AE",
+    "details": {
+      "accountNumber": "4819513138",
+      "balance": 7540.6
+    }
+  },
+  {
+    "email": "Ahmed2@test.com",
+    "username": "Ahmed1234",
+    "password": "$2a$10$tre71GsQ4OEj.putTMm09.V0UucL1ImUQ1n6Ikwcm4HP/zn7.XRx6",
+    "country": "AE",
+    "details": {
+      "accountNumber": "6942483503",
+      "balance": 7993.3
+    }
+  }
+]
